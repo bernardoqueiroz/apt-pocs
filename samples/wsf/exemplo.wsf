@@ -1,0 +1,8 @@
+<job>
+  <script language="VBScript">
+      WScript.Echo "Hello, this is a VBScript message from a .WSF file!"
+  </script>
+  <script language="JScript">
+    WScript.Echo("Hello, this is a JScript message from a .WSF file!");
+  </script>
+</job>

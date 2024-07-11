@@ -1,0 +1,8 @@
+#include <windows.h>
+
+101 ICON "appicon.ico"
+STRINGTABLE 
+BEGIN
+    1 "Example Applet"
+    2 "This is an example Control Panel applet."
+END

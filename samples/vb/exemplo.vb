@@ -1,0 +1,1 @@
+MsgBox "Hello, this is a VBScript message from a .VB file!"

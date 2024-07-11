@@ -1,0 +1,11 @@
+HKCR
+{
+    NoRemove CLSID
+    {
+        ForceRemove {01234567-89AB-CDEF-0123-456789ABCDEF} = s 'My COM Component'
+        {
+            val ThreadingModel = s 'Apartment'
+            InprocServer32 = s '%MODULE%'
+        }
+    }
+}

@@ -1,0 +1,6 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\MyApp]
+"StringValue"="This is a string"
+"DwordValue"=dword:0000000a
+"BinaryValue"=hex:01,02,03,04

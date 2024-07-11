@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<component>
+  <script language="VBScript">
+    <![CDATA[
+      Sub SayHello()
+        MsgBox "Hello from an SCT file!"
+      End Sub
+    ]]>
+  </script>
+</component>
